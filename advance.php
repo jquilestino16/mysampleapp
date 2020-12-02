@@ -1,6 +1,6 @@
 <?php
 
-$prutas = array("bayabas","tambis","mansanitas","saging");
+$prutas = array("guava","tambis","mansanitas","saging");
 $total = count($prutas);
 
 
